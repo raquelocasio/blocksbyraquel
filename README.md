@@ -1,5 +1,5 @@
 # blocksbyraquel
-A WordPress plugin for adding useful Gutenberg block patterns. 
+Blocks By Raquel is a WordPress plugin for adding useful Gutenberg block patterns. This is my first Gutenberg block pattern plugin.
 
 To install this plugin in your WordPress site:
 1) Download the zip file in this repository to your computer.
